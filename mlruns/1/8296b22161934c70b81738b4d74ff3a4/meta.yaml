@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/8296b22161934c70b81738b4d74ff3a4/artifacts
+end_time: 1665745677876
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 8296b22161934c70b81738b4d74ff3a4
+run_uuid: 8296b22161934c70b81738b4d74ff3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665745677834
+status: 3
+tags: []
+user_id: nehcr
